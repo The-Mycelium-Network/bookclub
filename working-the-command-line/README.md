@@ -24,7 +24,7 @@ It offers a gentle approach but spans over many topics, starts with navigating y
 ### 👤 About the author
 
 <div display="inline-block">
-<img align="left" width="100em" src="https://avatars.githubusercontent.com/u/13700?v=4">
+<img align="left" width="100em" src="https://cdn.shopify.com/s/files/1/0051/7692/t/5/assets/author-remy-sharp-1608310970747.jpg">
 </div>  
 
 Remy Sharp has been working commercially on the web since 1999 and blogging for over a decade. He runs his own consultancy, has been writing JavaScript long before it was cool, and founded the web conference ffconf in 2009. Remy tends to attract bugs and he enjoys squishing them. He uses the terminal daily.
