@@ -12,7 +12,7 @@
 ## 📌 Table of Contents
 
 * [📙 About the Book](#-about-the-book)
-* [👤 About the author](#👤-about-the-author)
+* [👤 About the author](#-about-the-author)
 * [🌠 About the Sponsor](#-about-the-sponsor)
 * [🍄 The Mentor](#-the-mentor)
 * [🌱 The Participants](#-the-participants)
