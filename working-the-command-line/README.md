@@ -1,13 +1,26 @@
 ![i](https://user-images.githubusercontent.com/86871991/189595823-e218bc7a-4d1b-47a0-b714-b1865ef2a360.png)
-<br/>
 
-## 📚 _Working the Command Line_, by [Remy Sharp](https://remysharp.com/) (2016)
+
+# 📚 _Working the Command Line_, by [Remy Sharp](https://remysharp.com/) (2016)
 
 > BookClub cohort sponsored by [A Book Apart](https://abookapart.com/), _"brief books for people who design, write, and code"_. 
 
+
+
+<br>
+
+## 📌 Table of Contents
+
+* [📙 About the Book](#-about-the-book)
+* [👤 About the author](#👤-about-the-author)
+* [🌠 About the Sponsor](#-about-the-sponsor)
+* [🍄 The Mentor](#-the-mentor)
+* [🌱 The Participants](#-the-participants)
+
+
 <br/>
 
-### 📙 About the book
+## 📙 About the book
 
 <div display="inline-block">
 <img align="left" width="125em" src="https://i.pinimg.com/736x/be/19/3f/be193ff8995c39cecbf58c7eeebbc3a9.jpg">
@@ -21,17 +34,20 @@ It offers a gentle approach but spans over many topics, starts with navigating y
 
 <br/>
 
-### 👤 About the author
+## 👤 About the author
 
 <div display="inline-block">
 <img align="left" width="100em" src="https://cdn.shopify.com/s/files/1/0051/7692/t/5/assets/author-remy-sharp-1608310970747.jpg">
 </div>  
 
-Remy Sharp has been working commercially on the web since 1999 and blogging for over a decade. He runs his own consultancy, has been writing JavaScript long before it was cool, and founded the web conference ffconf in 2009. Remy tends to attract bugs and he enjoys squishing them. He uses the terminal daily.
+Remy Sharp has been working commercially on the web since 1999 and blogging for over a decade. He runs his own consultancy, has been writing JavaScript long before it was cool, and founded the web conference ffconf in 2009. 
+
+Remy tends to attract bugs and he enjoys squishing them. He uses the terminal daily.
 
 <br/>
 
-### 🌠 About the sponsor
+
+## 🌠 About the sponsor
 
 <div display="inline-block">
 <img align="left" width="80em" src="https://media-exp1.licdn.com/dms/image/C560BAQGBqOQVMOSczw/company-logo_200_200/0/1519896899735?e=2147483647&v=beta&t=UcXA2wEcZhr_on_2GhnE4LOLB4jYPCsbexIcRFYjYXU">
@@ -43,7 +59,7 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 <br/>
 
-### 🍄 Mentor
+## 🍄 The Mentor
 
 <img align="left" width="85em" src="https://cdn.discordapp.com/avatars/740905020366651435/2c40a2dec513bf5de6a758d359dfb1b3.png?size=1024">
 
@@ -53,7 +69,7 @@ Front end web engineer, JavaScript programmer, passionate about open source and 
 
 <br/>
 
-### 🌱 Participants
+## 🌱 The Participants
 
 
 |   |   |   |  
