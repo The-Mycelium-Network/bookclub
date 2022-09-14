@@ -79,3 +79,21 @@ Front end web engineer, JavaScript programmer, passionate about open source and 
 |<img width="85em" src="https://cdn.discordapp.com/avatars/199232269406175242/d7464363dc90d7abf8ec47a26e2496c5.png?size=1024">|<img width="85em" src="https://cdn.discordapp.com/avatars/800239929484771349/e94d2422b42da9d6d82a60398bd4a11a.png?size=1024">|
 |Hoodini#7495|MortimerShore#0708|
 
+
+## Chapter 4
+
+## Configuring your computer to show hidden files
+
+### Windows
+
+- [View hidden files and folders in Windows (10 & 11)](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5#WindowsVersion=Windows_11)
+
+### Linux
+
+- [How to view hidden files and folders on Linux](https://www.makeuseof.com/view-hidden-files-and-folders-linux/)
+
+### macOS
+
+The keyboard shortcut for this is `Shift` + `Cmd` + `.`
+
+- [How to show hidden files on a Mac](https://www.macworld.com/article/671158/how-to-show-hidden-files-on-a-mac.html)
