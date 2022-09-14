@@ -2,7 +2,7 @@
 
 > BookClub cohort sponsored by **A Book Apart**, _"brief books for people who design, write, and code"_. 
 
-![Bookclub banner](./assets/banner.png)
+![Bookclub banner](./assets/banner1.png)
 
 ## 📌 Table of Contents
 
