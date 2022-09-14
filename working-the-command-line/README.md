@@ -47,7 +47,7 @@ The goal of every title in their catalog is to shed light on an essential topic 
 [**@zoe-moment**](https://github.com/zoe-moment) 🇺🇸 ·
 [**@Rico-Smit**](https://github.com/Rico-Smit) 🇿🇦 ·
 [**@shriy-singh**](https://github.com/shriy-singh) 🇮🇳 ·
-**@MortimerShore** 🇺🇸
+[**@KobayashiComputing**](https://github.com/KobayashiComputing) 🇺🇸
 
 ## 📑 Notes & Resources
 
