@@ -65,6 +65,6 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 #### macOS
 
-The keyboard shortcut for this is `Shift` + `Cmd` + `.`
+The keyboard shortcut for this is `Shift` + `Cmd + .`
 
 * [How to show hidden files on a Mac](https://www.macworld.com/article/671158/how-to-show-hidden-files-on-a-mac.html)
