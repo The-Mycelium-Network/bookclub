@@ -18,6 +18,6 @@ Sponsored by: [A Book Apart](https://abookapart.com/)
 
 ### macOS
 
-The keyboard shortcut for this is `Shift` + `Cmd` + `.`
+The keyboard shortcut for this is `Shift` + `Cmd + .`
 
 - [How to show hidden files on a Mac](https://www.macworld.com/article/671158/how-to-show-hidden-files-on-a-mac.html)
