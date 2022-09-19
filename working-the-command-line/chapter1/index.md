@@ -15,6 +15,10 @@ There are also [some alternatives](https://www.slant.co/options/2442/alternative
 - [WSL[2]](https://learn.microsoft.com/en-us/windows/wsl/about) aka Windows Subsystem for Linux version 1 and 2
 - [Git BASH](https://www.atlassian.com/git/tutorials/git-bash)
 
+For Windows users, you can get [Windows Terminal](https://github.com/microsoft/terminal), a multi-tabbed terminal emulator, and integrate several shells into it.
+
+You can also customize your terminal on Windows with [Oh My Posh](https://learn.microsoft.com/pt-br/windows/terminal/tutorials/custom-prompt-setup).
+
 ### macOS
 
 - Built in [macOS terminal](https://support.apple.com/en-za/guide/terminal/welcome/mac)
