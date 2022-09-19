@@ -1,4 +1,4 @@
-# Chap. 01 – "Just open the terminal..."
+# Chapter 01 – "Just open the terminal..."
 
 ## Terminal application options
 
