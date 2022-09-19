@@ -30,11 +30,20 @@ You can also customize your terminal on Windows with [Oh My Posh](https://learn.
 
 ## Interacting with the file system
 
+### `man`
+
 In the terminal type `man <command>` to bring up the documentation for the specified command, for example:
 
 ```bash
 man ls
 ```
+
+If you're using Git Bash, you should use the `--help` flag instead to achieve the same result.
+
+```bash
+ls --help
+```
+
 
 ### `ls`
 
