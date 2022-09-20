@@ -1,30 +1,36 @@
-# Just open the terminal
+# Chapter 01 – "Just open the terminal..."
 
-Treminal application options
+## Terminal application options
 
-## Linux
+### Linux
 
 - [Gnome Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 
 There are also [some alternatives](https://www.slant.co/options/2442/alternatives/~gnome-terminal-alternatives) you can explore.
 
-## Windows
+### Windows
 
 - Command Prompt
 - [Powershell](https://learn.microsoft.com/en-us/powershell/)
 - [WSL[2]](https://learn.microsoft.com/en-us/windows/wsl/about) aka Windows Subsystem for Linux version 1 and 2
 - [Git BASH](https://www.atlassian.com/git/tutorials/git-bash)
 
-## macOS
+For Windows users, you can get [Windows Terminal](https://github.com/microsoft/terminal), a multi-tabbed terminal emulator, and integrate several shells into it.
+
+You can also customize your terminal on Windows with [Oh My Posh](https://learn.microsoft.com/pt-br/windows/terminal/tutorials/custom-prompt-setup).
+
+### macOS
 
 - Built in [macOS terminal](https://support.apple.com/en-za/guide/terminal/welcome/mac)
 - [iTerm2](https://iterm2.com/)
 
-## Cross platform
+### Cross platform
 
 - [Hyper terminal](https://hyper.is/)
 
 ## Interacting with the file system
+
+### `man`
 
 In the terminal type `man <command>` to bring up the documentation for the specified command, for example:
 
@@ -32,7 +38,14 @@ In the terminal type `man <command>` to bring up the documentation for the speci
 man ls
 ```
 
-## `ls`
+If you're using Git Bash, you should use the `--help` flag instead to achieve the same result.
+
+```bash
+ls --help
+```
+
+
+### `ls`
 
 The most basic way to list the contents of the current directory is to type `ls`.
 
@@ -95,7 +108,7 @@ drwxr-xr-x  4 schalkneethling  staff  128 Sep  5 01:14 chapter3
 drwxr-xr-x  2 schalkneethling  staff   64 Sep 18 13:01 chapter1
 ```
 
-## `cd`
+### `cd`
 
 You move up and down the directory tree (folders) by using the `cd` (short for change directory) command.
 
