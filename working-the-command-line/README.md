@@ -38,7 +38,7 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 ### 🍄 **Mentor:**
 
-[**@schalkneethling**](https://github.com/schalkneethling)
+[**@schalkneethling**](https://github.com/schalkneethling) 🇿🇦 
  > Front end web engineer, JavaScript programmer, passionate about open source and the open web.
 
 ### 🌱 **Mentees:**
@@ -51,20 +51,12 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 ## 📑 Notes & Resources
 
-### Chapter 4
+- [Chapter 01 – "Just open the terminal..."](./chapter1/index.md)
 
-### Configuring your computer to show hidden files
+- [Chapter 02 – Install All the Things](./chapter2/index.md)
 
-#### Windows
+- [Chapter 03 – Tools of the Terminal Trade](./chapter3/index.md)
 
-* [View hidden files and folders in Windows (10 & 11)](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5#WindowsVersion=Windows_11)
+- [Chapter 04 – How (Not) to Shoot Yourself in the Foot](./chapter4/index.md)
 
-#### Linux
-
-* [How to view hidden files and folders on Linux](https://www.makeuseof.com/view-hidden-files-and-folders-linux/)
-
-#### macOS
-
-The keyboard shortcut for this is `Shift` + `Cmd + .`
-
-* [How to show hidden files on a Mac](https://www.macworld.com/article/671158/how-to-show-hidden-files-on-a-mac.html)
+- [Chapter 05 – Making the Shell Your Own](./chapter5/index.md)
