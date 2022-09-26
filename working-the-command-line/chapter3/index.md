@@ -63,7 +63,7 @@ rg "(\d+(\.|(?: )){1}){4}" -o access.log -N | uniq -c | sort | tail -5
 
 ### less cheatsheet
 
-- move up and down using the up and down cursor
+- move up and down using the up and down arrow keys
 - Page forward by pressing the space key
 - Page backward by pressing B
 - Start a search by pressing /
