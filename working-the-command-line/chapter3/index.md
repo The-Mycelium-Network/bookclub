@@ -2,7 +2,7 @@
 
 ## The `|` (pipe) chracter
 
-> The pipe is a magic and integral part of the command line. It’s super powerful and damn useful. What it does is take the output from the first command (on the left side) and “pipe” it to the second command (on the right side).
+> The pipe is a magic and integral part of the command line. It’s super powerful and extremely useful. What it does is take the output from the first command (on the left side) and “pipe” it to the second command (on the right side).
 
 To read the docs for most commands you can type `man util-name`, for example `man grep`.
 
