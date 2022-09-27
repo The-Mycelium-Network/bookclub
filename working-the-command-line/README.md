@@ -1,4 +1,4 @@
-![Bookclub banner](./assets/bookclub-banner.png)
+![Bookclub banner](assets/bookclub-banner.png)
 
 # 📚 _Working the Command Line_, by Remy Sharp (2016)
 
