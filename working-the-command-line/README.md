@@ -14,7 +14,7 @@
 
 ## 📙 About the Book
 
-<img align="left" width="125em" src="./assets/bookCover.jpg">
+<img align="left" width="125em" src="assets/bookCover.jpg">
 
 Gain command-line shortcuts and processing techniques, install new tools and diagnose problems, and fully customize your terminal for a better, more powerful workflow.
 
