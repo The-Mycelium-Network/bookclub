@@ -2,7 +2,7 @@
 
 # 📚 _Working the Command Line_, by Remy Sharp (2016)
 
-> BookClub cohort sponsored by **A Book Apart**, _"brief books for people who design, write, and code"_. 
+> BookClub cohort sponsored by **A Book Apart**, _"brief books for people who design, write, and code"_.
 
 ## 📌 Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## 📙 About the Book
 
-<img align="left" width="125em" src="assets/bookCover.jpg">
+![Book cover](assets/book-cover-small.jpg)
 
 Gain command-line shortcuts and processing techniques, install new tools and diagnose problems, and fully customize your terminal for a better, more powerful workflow.
 
@@ -38,7 +38,7 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 ### 🍄 **Mentor:**
 
-[**@schalkneethling**](https://github.com/schalkneethling) 🇿🇦 
+[**@schalkneethling**](https://github.com/schalkneethling) 🇿🇦
  > Front end web engineer, JavaScript programmer, passionate about open source and the open web.
 
 ### 🌱 **Mentees:**
@@ -51,12 +51,12 @@ The goal of every title in their catalog is to shed light on an essential topic 
 
 ## 📑 Notes & Resources
 
-- [Chapter 01 – "Just open the terminal..."](./chapter1/index.md)
+* [Chapter 01 – "Just open the terminal..."](./chapter1/index.md)
 
-- [Chapter 02 – Install All the Things](./chapter2/index.md)
+* [Chapter 02 – Install All the Things](./chapter2/index.md)
 
-- [Chapter 03 – Tools of the Terminal Trade](./chapter3/index.md)
+* [Chapter 03 – Tools of the Terminal Trade](./chapter3/index.md)
 
-- [Chapter 04 – How (Not) to Shoot Yourself in the Foot](./chapter4/index.md)
+* [Chapter 04 – How (Not) to Shoot Yourself in the Foot](./chapter4/index.md)
 
-- [Chapter 05 – Making the Shell Your Own](./chapter5/index.md)
+* [Chapter 05 – Making the Shell Your Own](./chapter5/index.md)
