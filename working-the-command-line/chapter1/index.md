@@ -128,7 +128,7 @@ working-command-line
 
 When inside `working-command-line` type `cd chapter1` will move you into the `chapter1` directory. To move back up to the parent directory, enter `cd ../`. For each level you want to move up the tree, add another `../`. So, to get to the parent directory of `working-command-line` from within `chapter1`, type `cd ../../`.
 
-When a directory or filename includes space characters, you need to either wrap the entire name in doublw quotes or, escape each space with a backslash.
+When a directory or filename includes space characters, you need to either wrap the entire name in double quotes or, escape each space with a backslash.
 
 ```bash
 cd "folder with spaces"
@@ -143,12 +143,13 @@ One way of searching your history is by pressing `Ctrl+R`
 
 ```bash
 ❯
-bck-i-search: _ # Start typing your search. Once you find the command, press enter to execute it
+bck-i-search: _ # Start typing your search. 
+Once you find the command, press enter to execute it
 ```
 
-> NOTE: You can press `Ctrl+C` to exit our of search mode
+> NOTE: You can press `Ctrl+C` to exit out of search mode.
 
-Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could simple type it our or, you can do something like this:
+Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could simple type it out or, you can do something like this:
 
 ```bash
 ls -l # press enter
