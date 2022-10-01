@@ -86,7 +86,7 @@ There is more to the definition of "The Long Format" that you can find in the ma
 
 The first column, on the left, will present a series of letters and dashes that correspond to the file permissions.
 
-The first character is the file type (`-` for a regular file, `d` for a directory, and `l`for a symlink). Then, there are three groups of special characters regarding the permissions of the `user`, the `group`, and the `other` categories. Each trio is composed of the letters `r`, `w`, and `x`, which stands for read, write and execute permissions, respectively. When that category doesn't have a certain type of permission, the letter is replaced by a `-`.
+The first character is the file type (`-` for a regular file, `d` for a directory, and `l` for a symlink). Then, there are three groups of special characters regarding the permissions of the `user`, the `group`, and the `other` categories. Each trio is composed of the letters `r`, `w`, and `x`, which stands for read, write and execute permissions, respectively. When that category doesn't have a certain type of permission, the letter is replaced by a `-`.
 
 > For instance, a `drwxr-xr-x` code indicates that the file is a directory, the `user` has read, write and execute permissions, while the `group` and the `other` categories, only have permissions to read or execute.
 
@@ -149,7 +149,7 @@ Once you find the command, press enter to execute it
 
 > NOTE: You can press `Ctrl+C` to exit out of search mode.
 
-Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could simple type it out or, you can do something like this:
+Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could type it out or you can do something like this:
 
 ```bash
 ls -l # press enter
