@@ -22,7 +22,10 @@ On macOS the most popular package manager is [`brew`](https://brew.sh/).
 
 - [Ruby gems](https://rubygems.org/)
 - [pip for Python](https://codeberryschool.com/blog/en/install-python-pip/)
-- [npm for Nodejs](https://npmjs.org/) | [Yarn package manager](https://yarnpkg.com/)
+- Package Managers for Nodejs:
+  - [npm](https://npmjs.org/)
+  - [Yarn](https://yarnpkg.com/)
+  - [pnpM](https://pnpm.io/)
 
 > If you have chosen, or want to experiment with Python to write command line utilities, ["Automating the boring stuff"](https://automatetheboringstuff.com/) is a great resource for this.
 
