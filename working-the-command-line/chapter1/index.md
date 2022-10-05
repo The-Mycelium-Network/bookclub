@@ -88,7 +88,7 @@ The first column, on the left, will present a series of letters and dashes that 
 
 The first character is the file type (`-` for a regular file, `d` for a directory, and `l` for a symlink). Then, there are three groups of special characters regarding the permissions of the `user`, the `group`, and the `other` categories. Each trio is composed of the letters `r`, `w`, and `x`, which stands for read, write and execute permissions, respectively. When that category doesn't have a certain type of permission, the letter is replaced by a `-`.
 
-> For instance, a `drwxr-xr-x` code indicates that the file is a directory, the `user` has read, write and execute permissions, while the `group` and the `other` categories, only have permissions to read or execute.
+> For instance, a `drwxr-xr-x` code indicates that the file is a directory, the `user` has read, write and execute permissions, the `group` has read and execute, and the `other` category only has execute permissions.
 
 ### `-F` or --classify
 
