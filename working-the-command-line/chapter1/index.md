@@ -28,7 +28,7 @@ You can also customize your terminal on Windows with [Oh My Posh](https://learn.
 
 - [Hyper terminal](https://hyper.is/)
 
-## Interacting with the file system
+## Getting help
 
 ### `man`
 
@@ -44,6 +44,7 @@ If you're using Git Bash, you should use the `--help` flag instead to achieve th
 ls --help
 ```
 
+## Interacting with the file system
 
 ### `ls`
 
