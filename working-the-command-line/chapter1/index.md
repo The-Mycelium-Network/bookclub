@@ -28,7 +28,7 @@ You can also customize your terminal on Windows with [Oh My Posh](https://learn.
 
 - [Hyper terminal](https://hyper.is/)
 
-## Interacting with the file system
+## Getting help
 
 ### `man`
 
@@ -44,6 +44,7 @@ If you're using Git Bash, you should use the `--help` flag instead to achieve th
 ls --help
 ```
 
+## Interacting with the file system
 
 ### `ls`
 
@@ -82,7 +83,15 @@ There is more to the definition of "The Long Format" that you can find in the ma
 > - minute file last modified,
 > - and the pathname.
 
-### `-F`
+#### Understanding the permission details
+
+The first column, on the left, will present a series of letters and dashes that correspond to the file permissions.
+
+The first character is the file type (`-` for a regular file, `d` for a directory, and `l` for a symlink). Then, there are three groups of special characters regarding the permissions of the `user`, the `group`, and the `other` categories. Each trio is composed of the letters `r`, `w`, and `x`, which stands for read, write and execute permissions, respectively. When that category doesn't have a certain type of permission, the letter is replaced by a `-`.
+
+> For instance, a `drwxr-xr-x` code indicates that the file is a directory, the `user` has read, write and execute permissions, while the `group` and the `other` categories, only have permissions to read or execute.
+
+### `-F` or --classify
 
 > Display a slash (‘/’) immediately after each pathname that is a directory, an asterisk (‘\*’) after each that is executable, an at sign (‘@’) after each symbolic link, an equals sign (‘=’) after each socket, a percent sign (‘%’) after each whiteout, and a vertical bar (‘|’) after each that is a FIFO.
 
@@ -120,7 +129,7 @@ working-command-line
 
 When inside `working-command-line` type `cd chapter1` will move you into the `chapter1` directory. To move back up to the parent directory, enter `cd ../`. For each level you want to move up the tree, add another `../`. So, to get to the parent directory of `working-command-line` from within `chapter1`, type `cd ../../`.
 
-When a directory or filename includes space characters, you need to either wrap the entire name in doublw quotes or, escape each space with a backslash.
+When a directory or filename includes space characters, you need to either wrap the entire name in double quotes or, escape each space with a backslash.
 
 ```bash
 cd "folder with spaces"
@@ -135,12 +144,13 @@ One way of searching your history is by pressing `Ctrl+R`
 
 ```bash
 ❯
-bck-i-search: _ # Start typing your search. Once you find the command, press enter to execute it
+bck-i-search: _ # Start typing your search. 
+Once you find the command, press enter to execute it
 ```
 
-> NOTE: You can press `Ctrl+C` to exit our of search mode
+> NOTE: You can press `Ctrl+C` to exit out of search mode.
 
-Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could simple type it our or, you can do something like this:
+Let’s say we run `ls -l` and press enter but then realize we wanted to run `ls -lt`. You could type it out or you can do something like this:
 
 ```bash
 ls -l # press enter
