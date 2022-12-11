@@ -1,16 +1,16 @@
-# Tools of the terminal trade
+# Chapter 03 - Tools of the terminal trade
 
-## The `|` (pipe) chracter
+## The `|` (pipe) character
 
 > The pipe is a magic and integral part of the command line. It’s super powerful and extremely useful. What it does is take the output from the first command (on the left side) and “pipe” it to the second command (on the right side).
 
-To read the docs for most commands you can type `man util-name`, for example `man grep`.
+To read the docs for most commands you can type `man util-name` (for example `man grep`), or use the `--help` flag if you're using git bash.
 
 ## grep
 
 - [grep manual page online](https://manpages.org/grep/1)
 
-We can highly recommended you look at [`ripgrep`](https://github.com/BurntSushi/ripgrep) as an alternative to `grep`.
+We highly recommend you look at [`ripgrep`](https://github.com/BurntSushi/ripgrep) as an alternative to `grep`.
 
 > ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern. By default, ripgrep will respect gitignore rules and automatically skip hidden files/directories and binary files. ripgrep has first class support on Windows, macOS and Linux, with binary downloads available for every release. ripgrep is similar to other popular search tools like The Silver Searcher, ack and grep.
 
@@ -61,16 +61,16 @@ rg "(\d+(\.|(?: )){1}){4}" -o access.log -N | uniq -c | sort | tail -5
 
 ## less
 
+- [less manual page online](https://manpages.org/less/l)
+
 ### less cheatsheet
 
-- move up and down using the up and down arrow keys
-- Page forward by pressing the space key
-- Page backward by pressing B
-- Start a search by pressing /
-- Move to the next match with N
-- To quit less, press Q
-
-- [less manual page online](https://manpages.org/less/l)
+- move up and down using the `up` and `down` arrow keys
+- Page forward by pressing the `space` key
+- Page backward by pressing `B`
+- Start a search by pressing `/`
+- Move to the next match with `N`
+- To quit less, press `Q`
 
 ## tail
 
